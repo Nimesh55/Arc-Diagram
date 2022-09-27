@@ -5,7 +5,7 @@ from matplotlib.widgets import Cursor
 import mplcursors
 
 # Network data taken from this file
-data_file = 'data3.csv'
+data_file = 'Data/data2.csv'
 
 # previously clicked node details are stored in here
 previously_selected_node = 0
